@@ -4,5 +4,6 @@ requests
 matplotlib
 seaborn
 openpyxl
+nltk
 #pytorch
 #torchvision
