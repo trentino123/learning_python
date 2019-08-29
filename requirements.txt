@@ -1,4 +1,5 @@
 # These are the python libraries needed to run the notebooks
+numpy
 pandas
 requests
 matplotlib
