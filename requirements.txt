@@ -7,5 +7,6 @@ seaborn
 openpyxl
 nltk
 opencv-python
+pil
 #pytorch
 #torchvision
