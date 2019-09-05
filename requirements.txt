@@ -7,6 +7,6 @@ seaborn
 openpyxl
 nltk
 opencv-python
-pil
+pillow
 #pytorch
 #torchvision
